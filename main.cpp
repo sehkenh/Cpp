@@ -1,1 +1,5 @@
-int main(){} // the minimal C++ program
+#include <iostream>
+
+int main() {
+    std::cout<<"Hello world in C++";
+} // the minimal C++ program
